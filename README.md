@@ -46,11 +46,6 @@ pip install pycryptodome
 pip install numpy
 ```
 
-# PyAudio: Purpose: Required for wave audio steganography programs to work with audio files.
-```
-pip install pyaudio
-```
-
 # 1. Image Steganography
 class Encode
 Purpose: Handles encoding (hiding) secret messages within images.
@@ -86,12 +81,3 @@ Image steganography modifies the least significant bit (LSB) of each pixel's cha
 ![Screenshot 2023-11-08 215347](https://github.com/athrvadeshmukh/Steganography/assets/112002659/95687878-500f-470a-88a4-af81c3d83dcd)
 
 ![Screenshot 2023-11-08 215403](https://github.com/athrvadeshmukh/Steganography/assets/112002659/32b23071-ed10-42bc-82d5-b0e53fb4d05f)
-
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-Steganographyx is licensed under the Apache License, Version 2.0. See the License file for more details.
-Copyright 2023 [ATHRVA DESHMUKH](https://github.com/athrvadeshmukh)
